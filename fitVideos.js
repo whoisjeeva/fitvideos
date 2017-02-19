@@ -2,6 +2,7 @@
 Project: fitVideos.js
 Author: Jeeva
 Date: June 6, 2016
+Version: 0.1.0
 */
 
 var fitVideos = {};
